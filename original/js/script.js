@@ -35,11 +35,7 @@ function subForm() {
 
   $('.beforeSend').css({"opacity":"1"});
 
-<<<<<<< HEAD
-  var link = "https://formspree.io/sayamkanwar616@gmail.com";
-=======
   var link = "https://formspree.io/bunny.akaksg@gmail.com";
->>>>>>> origin/master
 
   var dataStr = $("#contactForm").serialize();
   console.log(dataStr);
